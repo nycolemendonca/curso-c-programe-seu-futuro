@@ -10,7 +10,7 @@ int main()
     printf("\n------------------------------------------\n");
 
     printf("\nValor retornado: %d\n", printf("ana")); // retorna a qtde de caracteres que a funcao imprimiu
-    // $d retorna um inteiro
+    // %d retorna um inteiro
 
 
 
